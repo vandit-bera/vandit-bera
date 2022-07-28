@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@Vandit2510](https://hashnode.com/@Vandit2510)
 
-- 💬 Ask me about **Anythig About WebDevlopment**
+- 💬 Ask me anythig About **WebDevlopment**
 
 - 📫 How to reach me **vanditbera@gmail.com**
 

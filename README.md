@@ -3,6 +3,8 @@
 
 <br>
 
+---
+
 <br>
 
 
@@ -38,6 +40,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vandit-bera&" alt="vandit-bera" /></p>
 
+<br>
+
+<h3 align="left">
+Watch my contributions graph eaten by snake 🐍
+</h3>
+
+![Snake animation](https://github.com/vandit-bera/vandit-bera/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 <br>
 

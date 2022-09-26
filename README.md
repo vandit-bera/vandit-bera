@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vandit Bera</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<br>
-
 ---
 
 <br>
@@ -14,11 +12,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@Vandit2510](https://hashnode.com/@Vandit2510)
 
-- 💬 Ask me anythig About **WebDevlopment**
-
 - 📫 How to reach me **vanditbera@gmail.com**
-
-- 📄 Know about my experiences [https://vandit-bera.github.io/Resume/Vandit's%20Resume.pdf](https://vandit-bera.github.io/Resume/Vandit's%20Resume.pdf)
 
 <br>
 
@@ -47,6 +41,10 @@ Watch my contributions graph eaten by snake 🐍
 </h3>
 
 ![Snake animation](https://github.com/vandit-bera/vandit-bera/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+![3d-Profile-Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 

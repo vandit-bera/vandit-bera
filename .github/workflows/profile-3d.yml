@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: vandit-bera/github-profile-3d-contrib@0.7.0
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: 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
           USERNAME: vandit-bera
       - name: Commit & Push
         run: |

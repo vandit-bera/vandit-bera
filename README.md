@@ -32,9 +32,10 @@
 
 <br>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vandit-bera&" alt="vandit-bera" />
-</p>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vandit-bera&theme=neon-dark&hide_border=true&border_radius=30&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+
 
 <br>
 

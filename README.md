@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Vandit Bera</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h1 align="center">Hi 🙋, I'm Vandit Bera</h1>
+
+
+<h3 align="center">I'm passionate about creating and developing clean,and unique products. I specialize in building Websites for small to medium size business. I keep my code clean, readable, modular and well refactored. I enjoy working with complex user interfaces.</h3>
 
 ---
 
 <br>
 
 
-- 🌱 I’m currently learning **Full Stack Javascript Web Devloper**
+- 🌱 I’m currently learning **Full Stack Javascript Web Devlopement**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vandit-bera](https://github.com/vandit-bera)
 

@@ -1,4 +1,8 @@
-<h1 align="center">Hi 🙋, I'm Vandit Bera</h1>
+<div align="center">
+  
+![Vandit-Bera](https://readme-typing-svg.demolab.com?font=Julee&size=30&duration=4000&pause=700&color=F78619&center=true&width=435&lines=Hey!%F0%9F%99%8B+I'm+Vandit+Bera;I'm+a+Web+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%A6%B0;YOU+DREAM+IT.++I+CREATE+IT.)
+  
+</div>
 
 
 <h3 align="center">I'm passionate about creating and developing clean,and unique products. I specialize in building Websites for small to medium size business. I keep my code clean, readable, modular and well refactored. I enjoy working with complex user interfaces.</h3>

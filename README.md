@@ -42,7 +42,15 @@
 <br>
 
 <h3 align="left">
-Watch my contributions 3D graph <!--- eaten by snake 🐍 --->
+Holopins:
+</h3>
+
+[![@vanditbera's Holopin board](https://holopin.io/api/user/board?user=vanditbera)](https://holopin.io/@vanditbera)
+
+<br>
+
+<h3 align="left">
+Watch my contributions 3D graph <!--- eaten by snake 🐍 --->:
 </h3>
 
 <!--- ![Snake animation](https://github.com/vandit-bera/vandit-bera/blob/output/github-contribution-grid-snake.svg) --->

@@ -59,9 +59,6 @@ Watch my contributions graph eaten by snake 🐍:
 
 ![Snake animation](https://github.com/vandit-bera/vandit-bera/blob/output/github-contribution-grid-snake.svg)
 
-<!--- ![3d-Profile-Graph](./profile-3d-contrib/profile-night-rainbow.svg) --->
-
----
 
 
 

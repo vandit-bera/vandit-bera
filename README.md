@@ -59,6 +59,9 @@ Watch my contributions graph eaten by snake 🐍:
 
 ![Snake animation](https://github.com/vandit-bera/vandit-bera/blob/output/github-contribution-grid-snake.svg)
 
+<br>
+
+![Vandit's github activity graph](https://activity-graph.herokuapp.com/graph?username=vandit-bera&theme=react-dark&color=ff7b00&line=2969ff&point=ff7b00&area=true&hide_border=true)
 
 
 

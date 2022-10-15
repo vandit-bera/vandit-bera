@@ -12,7 +12,7 @@
 <br>
 
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript and ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vandit-bera](https://github.com/vandit-bera)
 

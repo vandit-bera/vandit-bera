@@ -1,6 +1,6 @@
 <div align="center">
   
-![Vandit-Bera](https://readme-typing-svg.demolab.com?font=Julee&size=30&duration=4000&pause=700&color=F78619&center=true&width=435&lines=Hola!%F0%9F%99%8B+I'm+Vandit+Bera;I'm+a+Web+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%A6%B0;YOU+DREAM+IT.++I+CREATE+IT.)
+![Vandit-Bera](https://readme-typing-svg.demolab.com?font=Julee&size=30&duration=4000&pause=700&color=F78619&center=true&width=435&lines=Hola!%F0%9F%99%8B+I'm+Vandit+Bera;I'm+a+Full+Stack+Web+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%A6%B0;YOU+DREAM+IT.++I+CREATE+IT.)
   
 </div>
 
@@ -82,11 +82,17 @@ Watch my contributions graph eaten by snake 🐍:
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<div align="left">
+  
+![Vandit-Bera](https://readme-typing-svg.demolab.com/?font=Julee&size=30&duration=4000&pause=700&color=2969ff&left=true&width=435&lines=For+Any+Future+Request++Ping+Me!)
+  
+</div>
+
 <p align="left">
 <a href="https://twitter.com/vandit_bera_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vandit_bera_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vandit-bera-4a0b02221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vandit-bera-4a0b02221" height="30" width="40" /></a>
 <a href="https://fb.com/vandit bera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vandit bera" height="30" width="40" /></a>
 <a href="https://instagram.com/vandit.bera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vandit.bera" height="30" width="40" /></a>
 <a href="https://hashnode.com/@vandit2510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vandit2510" height="30" width="40" /></a>
+<a href="https://discord.gg/#5306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5306" height="30" width="40" /></a>
 </p>

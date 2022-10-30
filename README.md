@@ -12,11 +12,11 @@
 <br>
 
 
-- 🌱 I’m currently learning **Javascript and ReactJS**
+- 🌱 I’m currently learning **ReactJS** and **NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vandit-bera](https://github.com/vandit-bera)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/vandit-bera)
 
-- 📝 I regularly write articles on [https://hashnode.com/@Vandit2510](https://hashnode.com/@Vandit2510)
+- 📝 I regularly write articles on [HashNode](https://hashnode.com/@Vandit2510)
 
 - 📫 How to reach me **vanditbera@gmail.com**
 

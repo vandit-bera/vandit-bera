@@ -11,11 +11,11 @@
 
 <br>
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+<!-- <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" > -->
 
-<p align="left"> 
+<!-- <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=vandit-bera&label=Profile%20views&color=0e75b6&style=flat" alt="Profile-View" > 
-</p>
+</p> -->
 
 
 - 🌱 I’m currently learning **NodeJS** and **ExpressJS**

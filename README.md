@@ -11,11 +11,10 @@
 
 <br>
 
-<!-- <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" > -->
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<!-- <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=vandit-bera&label=Profile%20views&color=0e75b6&style=flat" alt="Profile-View" > 
-</p> -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vandit-bera&label=Profile%20views&color=0e75b6&style=flat" alt="vandit-bera" /> </p>
 
 
 - 🌱 I’m currently learning **NodeJS** and **ExpressJS**
@@ -55,11 +54,9 @@
 </p>
 
 <br>
-
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vandit-bera&theme=neon-dark&hide_border=true&border_radius=30&date_format=j%20M%5B%20Y%5D)
   
-
 
 <br>
 
@@ -82,11 +79,6 @@ Watch my contributions graph eaten by snake 🐍:
 ![Vandit's github activity graph](https://activity-graph.herokuapp.com/graph?username=vandit-bera&theme=react-dark&color=ff7b00&line=2969ff&point=ff7b00&area=true&hide_border=true)
 
 
-
-<br>
-<h1 align="center">
-❤️ I WRITE CODE ❤️
-</h1>
 
 <br>
 

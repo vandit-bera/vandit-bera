@@ -70,7 +70,7 @@
 <br>
 
 <h3 align="left">
-Watch my contributions graph eaten by snake 🐍:
+📊 Watch my contributions graph eaten by snake 🐍:
 </h3>
 
 ![Snake animation](https://github.com/vandit-bera/vandit-bera/blob/output/github-contribution-grid-snake.svg)

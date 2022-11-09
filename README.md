@@ -83,7 +83,7 @@ Watch my contributions graph eaten by snake 🐍:
 
 <div align="left">
   
-![Vandit-Bera](https://readme-typing-svg.demolab.com/?font=Julee&size=30&duration=4000&pause=700&color=2969ff&left=true&width=435&lines=For+Any+Future+Request++Ping+Me!)
+![Vandit-Bera](https://readme-typing-svg.demolab.com/?font=Julee&size=30&duration=4000&pause=700&color=2969ff&left=true&width=435&lines=➡+For+Any+Future+Request++Ping+Me!)
   
 </div>
 

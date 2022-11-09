@@ -81,7 +81,7 @@
 
 <br>
 
-![Vandit's github activity graph](https://activity-graph.herokuapp.com/graph?username=vandit-bera&theme=react-dark&color=7DB693&line=00A6ED&point=F24E1E&area=true&hide_border=true)
+![Vandit's github activity graph](https://activity-graph.herokuapp.com/graph?username=vandit-bera&theme=react-dark&color=1CB56D&line=00A6ED&point=F24E1E&area=true&hide_border=true)
 
 
 

@@ -1,6 +1,6 @@
 <div align="center">
   
-![Vandit-Bera](https://readme-typing-svg.demolab.com?font=Julee&size=30&duration=4000&pause=700&color=1CB56D&center=true&width=435&lines=Hola!%F0%9F%99%8B+I'm+Vandit+Bera;I'm+a+Full+Stack+Web+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%A6%B0;YOU+DREAM+IT.++I+CREATE+IT.)
+![Vandit-Bera](https://readme-typing-svg.demolab.com?font=Julee&size=30&duration=4000&pause=700&color=27E05D&center=true&width=435&lines=Hola!%F0%9F%99%8B+I'm+Vandit+Bera;I'm+a+Full+Stack+Web+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%A6%B0;YOU+DREAM+IT.++I+CREATE+IT.)
   
 </div>
 
@@ -81,7 +81,7 @@
 
 <br>
 
-![Vandit's github activity graph](https://activity-graph.herokuapp.com/graph?username=vandit-bera&theme=react-dark&color=1CB56D&line=00A6ED&point=F24E1E&area=true&hide_border=true)
+![Vandit's github activity graph](https://activity-graph.herokuapp.com/graph?username=vandit-bera&theme=react-dark&color=27E05D&line=00A6ED&point=F24E1E&area=true&hide_border=true)
 
 
 

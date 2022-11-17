@@ -27,7 +27,7 @@
 <br>
 
 
-<h3 align="left">🔀 Languages and Tools:</h3>
+<h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px align="top"> Languages and Tools:</h3>
 
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> 
@@ -73,13 +73,14 @@
 
 <br>
 
-<h3 align="left">
-📊 Watch my contributions graph eaten by snake 🐍:
-</h3>
 
 ![Snake animation](https://github.com/vandit-bera/vandit-bera/blob/output/github-contribution-grid-snake.svg)
 
 <br>
+
+<h3 align="left">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" align="top">Contributions Graph:
+</h3>
 
 ![Vandit's github activity graph](https://activity-graph.herokuapp.com/graph?username=vandit-bera&theme=react-dark&color=27E05D&line=00A6ED&point=F24E1E&area=true&hide_border=true)
 

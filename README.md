@@ -16,7 +16,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vandit-bera&label=Profile%20views&color=0e75b6&style=flat" alt="vandit-bera" /> </p>
 
 
-- 🌱 I’m currently learning **NodeJS** and **ExpressJS**
+- 🌱 I’m currently learning **MongoDB**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/vandit-bera)
 

@@ -78,11 +78,11 @@
 
 <br>
 
-<h3 align="left">
+<!-- <h3 align="left">
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" align="top">Contributions Graph:
-</h3>
+</h3> -->
 
-![Vandit's github activity graph](https://activity-graph.herokuapp.com/graph?username=vandit-bera&theme=react-dark&color=27E05D&line=00A6ED&point=F24E1E&area=true&hide_border=true)
+<!-- ![Vandit's github activity graph](https://activity-graph.herokuapp.com/graph?username=vandit-bera&theme=react-dark&color=27E05D&line=00A6ED&point=F24E1E&area=true&hide_border=true) -->
 
 
 

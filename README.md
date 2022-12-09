@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **ExpressJS** and **MongoDB**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/vandit-bera)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://vandit.vercel.app/)
 
 - 📝 I regularly write articles on [HashNode](https://hashnode.com/@Vandit2510)
 

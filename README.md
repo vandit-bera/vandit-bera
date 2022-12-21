@@ -121,5 +121,5 @@
 <a href="https://linkedin.com/in/vandit-bera-4a0b02221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vandit-bera-4a0b02221" height="30" width="40" /></a>
 <a href="https://fb.com/vandit bera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vandit bera" height="30" width="40" /></a>
 <a href="https://instagram.com/vandit.bera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vandit.bera" height="30" width="40" /></a>
-<a href="https://discord.gg/#5306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5306" height="30" width="40" /></a>
+<a href="https://discord.com/users/channels/@me/970605340641099796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5306" height="30" width="40" /></a>
 </p>

@@ -58,6 +58,25 @@
 
 <br>
 
+# ☁️ Badges from Google Cloud [OFFICIAL]
+
+- #### [Create and Manage Cloud Resources](https://www.cloudskillsboost.google/public_profiles/f0b0c653-67c4-433e-86d3-81f2f8b29178/badges/2998253)
+- #### [Perform Foundational Infrastructure Tasks in Google Cloud](https://www.cloudskillsboost.google/public_profiles/f0b0c653-67c4-433e-86d3-81f2f8b29178/badges/3021300)
+- #### [Set Up and Configure a Cloud Environment in Google Cloud](https://www.cloudskillsboost.google/public_profiles/f0b0c653-67c4-433e-86d3-81f2f8b29178/badges/3023254)
+- #### [Automating Infrastructure on Google Cloud with Terraform](https://www.cloudskillsboost.google/public_profiles/f0b0c653-67c4-433e-86d3-81f2f8b29178/badges/3026012)
+- #### [Preparing for Your Associate Cloud Engineer Journey](https://www.cloudskillsboost.google/public_profiles/f0b0c653-67c4-433e-86d3-81f2f8b29178/badges/2969125)
+- #### [Google Cloud Fundamentals: Core Infrastructure](https://www.cloudskillsboost.google/public_profiles/f0b0c653-67c4-433e-86d3-81f2f8b29178/badges/2971119)
+- #### [Essential Google Cloud Infrastructure: Foundation](https://www.cloudskillsboost.google/public_profiles/f0b0c653-67c4-433e-86d3-81f2f8b29178/badges/2974797)
+- #### [Essential Google Cloud Infrastructure: Core Services](https://www.cloudskillsboost.google/public_profiles/f0b0c653-67c4-433e-86d3-81f2f8b29178/badges/2997413)
+- #### [Elastic Google Cloud Infrastructure: Scaling and Automation](https://www.cloudskillsboost.google/public_profiles/f0b0c653-67c4-433e-86d3-81f2f8b29178/badges/3023864)
+- #### [Getting Started with Google Kubernetes Engine](https://www.cloudskillsboost.google/public_profiles/f0b0c653-67c4-433e-86d3-81f2f8b29178/badges/3020677)
+- #### [Logging, Monitoring and Observability in Google Cloud](https://www.cloudskillsboost.google/public_profiles/f0b0c653-67c4-433e-86d3-81f2f8b29178/badges/3025649)
+- #### [Getting Started with Terraform for Google Cloud](https://www.cloudskillsboost.google/public_profiles/f0b0c653-67c4-433e-86d3-81f2f8b29178/badges/3025661)
+
+- ## All My Badges are Available at [Google Cloud Skill Boost](https://www.cloudskillsboost.google/public_profiles/f0b0c653-67c4-433e-86d3-81f2f8b29178)
+
+<br>
+
 <h3 align="left">⚙️ Analytics:</h3>
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vandit-bera&theme=neon-dark&hide_border=true&border_radius=30&date_format=j%20M%5B%20Y%5D)

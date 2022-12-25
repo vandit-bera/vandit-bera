@@ -18,11 +18,11 @@
 
 - 🌱 I’m currently learning **ExpressJS** and **MongoDB**
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://vandit.vercel.app/)
+- 👨‍💻 All of my projects are available at my [PortFolio](https://vanditbera.in/)
 
 - 📝 I regularly write articles on [HashNode](https://hashnode.com/@Vandit2510)
 
-- 📫 How to reach me **vanditbera@gmail.com**
+- 📫 How to reach me **[Vandit Bera](mailto:vanditbera@gmail.com)**
 
 <br>
 
@@ -77,9 +77,9 @@
 
 <br>
 
-<h3 align="left">⚙️ Analytics:</h3>
+<!-- <h3 align="left">⚙️ Analytics:</h3>
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vandit-bera&theme=neon-dark&hide_border=true&border_radius=30&date_format=j%20M%5B%20Y%5D)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vandit-bera&theme=neon-dark&hide_border=true&border_radius=30&date_format=j%20M%5B%20Y%5D) -->
   
 
 <br>

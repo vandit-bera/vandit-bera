@@ -95,11 +95,11 @@
 
 <br>
 
-<!-- <h3 align="left">
+<h3 align="left">
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" align="top">Contributions Graph eaten by snake:
-</h3> -->
+</h3>
 
-<!-- ![Snake animation](https://github.com/vandit-bera/vandit-bera/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/vandit-bera/vandit-bera/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 

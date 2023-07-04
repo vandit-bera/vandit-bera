@@ -5,7 +5,7 @@
 </div>
 
 
-<h3 align="center">I'm passionate about creating and developing clean,and unique products. I specialize in building Websites for small to medium size business. I keep my code clean, readable, modular and well refactored. I enjoy working with complex user interfaces.</h3>
+<h3 align="center">I'm passionate about creating and developing clean, and unique products. I specialize in building Websites for small to medium size businesses. I keep my code clean, readable, modular, and well-refactored. I enjoy working with complex user interfaces.</h3>
 
 ---
 
@@ -73,7 +73,7 @@
 - #### [Essential Google Cloud Infrastructure: Core Services](https://www.cloudskillsboost.google/public_profiles/f0b0c653-67c4-433e-86d3-81f2f8b29178/badges/2997413)
 - #### [Elastic Google Cloud Infrastructure: Scaling and Automation](https://www.cloudskillsboost.google/public_profiles/f0b0c653-67c4-433e-86d3-81f2f8b29178/badges/3023864)
 - #### [Getting Started with Google Kubernetes Engine](https://www.cloudskillsboost.google/public_profiles/f0b0c653-67c4-433e-86d3-81f2f8b29178/badges/3020677)
-- #### [Logging, Monitoring and Observability in Google Cloud](https://www.cloudskillsboost.google/public_profiles/f0b0c653-67c4-433e-86d3-81f2f8b29178/badges/3025649)
+- #### [Logging, Monitoring, and Observability in Google Cloud](https://www.cloudskillsboost.google/public_profiles/f0b0c653-67c4-433e-86d3-81f2f8b29178/badges/3025649)
 - #### [Getting Started with Terraform for Google Cloud](https://www.cloudskillsboost.google/public_profiles/f0b0c653-67c4-433e-86d3-81f2f8b29178/badges/3025661)
 
 - ## All My Badges are Available at [Google Cloud Skill Boost](https://www.cloudskillsboost.google/public_profiles/f0b0c653-67c4-433e-86d3-81f2f8b29178)
